@@ -1,14 +1,100 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "alumnos": [
+    {
+      "nombre": "María",
+      "apellido": "Hernandez",
+      "grupo": "ASIX",
+      "notas": [
+        2,
+        3,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "nombre": "Pedro",
+      "apellido": "Martinez",
+      "grupo": "DAM",
+      "notas": [
+        8,
+        4,
+        6,
+        5,
+        9
+      ]
+    },
+    {
+      "nombre": "Alejandra",
+      "apellido": "Fernandez",
+      "grupo": "DAW",
+      "notas": [
+        2,
+        3,
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "nombre": "Sergio",
+      "apellido": "Fernandez",
+      "grupo": "DAW",
+      "notas": [
+        2,
+        3,
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "nombre": "Petri",
+      "apellido": "La Loca",
+      "grupo": "DAW",
+      "notas": [
+        2,
+        3,
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "nombre": "Sergio",
+      "apellido": "Culero",
+      "grupo": "DAW",
+      "notas": [
+        2,
+        3,
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "nombre": "Ashtor",
+      "apellido": "Fernandez",
+      "grupo": "DAW",
+      "notas": [
+        2,
+        3,
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "nombre": "John",
+      "apellido": "Fernandez",
+      "grupo": "DAW",
+      "notas": [
+        2,
+        3,
+        2,
+        5,
+        6
+      ]
+    }
+  ]
 }
